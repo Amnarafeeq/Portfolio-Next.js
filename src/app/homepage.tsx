@@ -60,7 +60,7 @@ export function HomePageDetail() {
 
       <div  data-aos="fade-left"
            data-aos-duration="3000" className=" w-96 flex flex-col  justify-center">
-        <h1 className="text-blue-500 font-semibold text-2xl px-8">Hi I'm</h1>
+        <h1 className="text-blue-500 font-semibold text-2xl px-8">Hi I am</h1>
         <h1 className="text-5xl font-serif font-extrabold uppercase text-center bg-gradient-to-r from-purple-600  to-pink-400  bg-clip-text text-transparent">
           Amna
         </h1>
