@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { Button } from "./ui/button";
+import { Button } from "../components/ui/button";
 import Typewriter from "typewriter-effect";
 import { FaCloudDownloadAlt, FaGithubSquare, FaLinkedin } from "react-icons/fa";
 import Link from "next/link";
